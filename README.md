@@ -3,14 +3,22 @@ Pre-release Alt-Tab replacement. Swap by typing the app's first letter.
 
 Alt-caps (can remap) to activate.
 
-Alt-ctrl-caps (can remap) to remap the focused window until restart.
+![Demonstration of Quick Switch](gifs/switching.gif)
 
 Rightclick to remap a program.
+
+![Remapping a program](gifs/remapping.gif)
+
+Alt-ctrl-caps (can remap) to remap the focused window until restart.
+
+![Remapping a window](gifs/runtime-remapping.gif)
 
 Rightclick -> Settings:
   * Autostart program
   * Change mappings
   * Fallback resolve sequence are the keys added when the same program is opened twice, to resolve conflicts
+
+![Remapping a window](gifs/settings.gif)
 
 ## Installation
 Download from releases and place 2MB binary anywhere you want, run.
