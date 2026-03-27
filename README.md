@@ -25,6 +25,9 @@ Download from releases and place 2MB binary anywhere you want, run.
 
 Config is stored in appdata.
 
+## Known issues
+* Only ASCII characters rendered so far
+
 ### Disclaimer
 Stuff will most likely break and be buggy.
 
