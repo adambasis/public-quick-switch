@@ -20,6 +20,8 @@ Rightclick -> Settings:
 
 ![Remapping a window](gifs/settings.gif)
 
+Scale ui with ctrl+mousewheel
+
 ## Installation
 Download from releases and place 2MB binary anywhere you want, run.
 
