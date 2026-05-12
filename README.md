@@ -1,5 +1,7 @@
 # Quick Switch
-Pre-release Alt-Tab replacement. Swap by typing the app's first letter.
+Pre-release Alt-Tab replacement. Swap apps by typing the first letter of it's name.
+
+!!! This page is not up-to-date anymore, newer releases here: https://www.patreon.com/posts/156207317
 
 Alt-caps (can remap) to activate.
 
